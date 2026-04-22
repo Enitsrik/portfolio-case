@@ -107,17 +107,17 @@ export default function App() {
         </p>
 
         {/* FINAL */}
-        <h3>Final prototype</h3>
+        <h3>Nuværende prototype</h3>
         <img className="hover-img" src="/prototypelight1.jpg" style={imgStyle} />
 
         <p className="caption">
-          Den endelige prototype med forbedret lys og funktionalitet.
+          Den nuværende prototype, udviklet gennem flere iterationer med fokus på lyskontrol og funktionalitet.
         </p>
       </section>
 
       {/* RESULTAT */}
       <section style={{ marginBottom: "60px" }}>
-        <h2>Resultat</h2>
+        <h3>Seneste iteration</h3>
         <p>
           En interaktiv løsning hvor elever kan kommunikere diskret via lys.
         </p>
