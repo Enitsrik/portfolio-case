@@ -60,6 +60,33 @@ export default function App() {
           teknologi.
         </p>
 
+        <section style={{ marginBottom: "60px" }}>
+  <h2>Logbog</h2>
+
+  <p>
+    Se vores løbende refleksioner, idéudvikling og dokumentation af processen:
+  </p>
+
+  <a 
+    href="https://docs.google.com/presentation/d/1cA-gP2XO_DVFukSJQhIWF_pkb_mXFtCY1yQ8qXs3p1E/edit?slide=id.g393c0a796cf_0_1"
+    target="_blank"
+    rel="noopener noreferrer"
+    style={{
+      display: "inline-block",
+      marginTop: "12px",
+      padding: "12px 18px",
+      background: "rgba(192,132,252,0.2)",
+      borderRadius: "10px",
+      textDecoration: "none",
+      color: "#fff",
+      fontWeight: "bold",
+      transition: "all 0.2s ease"
+    }}
+  >
+    Åbn logbog →
+  </a>
+</section>
+
         {/* IDE */}
         <h3>Idé og skitser</h3>
         <div style={gridStyle}>
@@ -121,6 +148,8 @@ export default function App() {
         <p>
           En interaktiv løsning hvor elever kan kommunikere diskret via lys.
         </p>
+
+
       </section>
     </div>
   );
