@@ -61,6 +61,8 @@ export default function App() {
         </p>
 
         <section style={{ marginBottom: "60px" }}>
+
+          
   <h2>Logbog</h2>
 
   <p>
@@ -68,7 +70,7 @@ export default function App() {
   </p>
 
   <a 
-    href="https://docs.google.com/presentation/d/1cA-gP2XO_DVFukSJQhIWF_pkb_mXFtCY1yQ8qXs3p1E/edit?slide=id.g393c0a796cf_0_1"
+  href="https://docs.google.com/presentation/d/1cA-gP2XO_DVFukSJQhIWF_pkb_mXFtCY1yQ8qXs3p1E/edit?slide=id.p#slide=id.p"
     target="_blank"
     rel="noopener noreferrer"
     style={{
